@@ -79,7 +79,7 @@ Clone this repository to your desired folder:
 
 ```sh
   cd my-folder
-  git clone https://github.com/IshuKrPathak/AskFile.git
+  git clone https://github.com/IshuKrPathak/askfile-F-DEV-ASSIGNMENT.git
 ```
 
 
